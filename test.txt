@@ -1,0 +1,2 @@
+This is the very first test file I have
+The purpose of it is just to learn how to interact with Git. 
